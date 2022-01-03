@@ -18,8 +18,8 @@
 <br><br>
 
 ## Download
-아래 URL에서 위 프로그램을 설치할 수 있습니다.
-> https://drive.google.com/drive/folders/1vRY132xKuxYs-TE6Ngrb7dBLZnszrVSj?usp=sharing (v1.2)
+> Old_Letter_v1.2.exe
+>> https://drive.google.com/drive/folders/1vRY132xKuxYs-TE6Ngrb7dBLZnszrVSj?usp=sharing
 <br>
 
 ## Update History
