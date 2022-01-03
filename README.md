@@ -1,5 +1,5 @@
 # Old_Letter
-![image](https://user-images.githubusercontent.com/64591335/143258539-22b6143f-574b-48bf-911a-1133d3348dc7.png)
+![image](https://user-images.githubusercontent.com/64591335/147939531-3e41f7fd-07e0-4308-a27f-c92357674e4e.png)
 
 ---
 ## What the fuck is this?
@@ -12,14 +12,15 @@
 >> 작자 미상, 『강북전』
 <br>
 
+## How To Use
+![image](https://user-images.githubusercontent.com/64591335/143258539-22b6143f-574b-48bf-911a-1133d3348dc7.png)
+프로그램이 시키는 대로 따라가면 됩니다.
+<br><br>
+
 ## Download
 아래 URL에서 위 프로그램을 설치할 수 있습니다.
 > https://drive.google.com/drive/folders/1vRY132xKuxYs-TE6Ngrb7dBLZnszrVSj?usp=sharing (v1.2)
 <br>
-
-## How To Use
-프로그램이 말하는 대로 따라가면 됩니다.
-<br><br>
 
 ## Update History
 ◇ 2021.7.19.화 // v1.0
