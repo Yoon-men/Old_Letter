@@ -18,7 +18,7 @@
 <br><br>
 
 ## Download
-> Old_Letter_v1.2.exe
+> <Old_Letter_v1.2.exe>
 >> https://drive.google.com/drive/folders/1vRY132xKuxYs-TE6Ngrb7dBLZnszrVSj?usp=sharing
 <br>
 
